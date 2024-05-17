@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prateek Majumder</h1>
-<h3 align="center">PGP AI&Data Science Student</h3>
+<h3 align="center">PGP AI & Data Science Student</h3>
 
 - 🔭 I’m currently a student at **Reliance Foundation Jio Institute**
 
