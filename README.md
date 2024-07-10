@@ -3,8 +3,10 @@
 
 - 🔭 I’m currently a student at **Reliance Foundation Jio Institute**
 
-- 👨‍💻 Kaggle (Data and stuff): [https://www.kaggle.com/prateekmaj21](https://www.kaggle.com/prateekmaj21)
+- 👨‍💻 Kaggle : [https://www.kaggle.com/prateekmaj21](https://www.kaggle.com/prateekmaj21)
 
 - 📝 I write here: [https://www.analyticsvidhya.com/blog/author/prateekmaj21/](https://www.analyticsvidhya.com/blog/author/prateekmaj21/)
 
 - 📄Linkedin: [https://www.linkedin.com/in/prateek-majumder/](https://www.linkedin.com/in/prateek-majumder/)
+
+- 
