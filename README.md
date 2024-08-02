@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prateek Majumder</h1>
 <h3 align="center">PGP AI & Data Science Student</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prateekmaj21&label=Profile%20views&color=0e75b6&style=flat" alt="soma2000-lang" /> </p>
+
 
 - 🔭 I’m currently a student at **Reliance Foundation Jio Institute**
 
