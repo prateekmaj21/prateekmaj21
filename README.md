@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateekmaj21&label=Profile%20views&color=0e75b6&style=flat" alt="soma2000-lang" /> </p>
 
 
-- 🔭 I’m currently a student at **Reliance Foundation Jio Institute**
+- 🔭 I’m currently working at **Reliance Industries Limited, Navi Mumbai**
 
 - 👨‍💻 Kaggle : [https://www.kaggle.com/prateekmaj21](https://www.kaggle.com/prateekmaj21)
 
